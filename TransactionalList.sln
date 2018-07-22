@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionalList", "TransactionalList\TransactionalList.csproj", "{FC07D070-B47D-44E7-AFF2-39F34F94D7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionalList.Test", "TransactionalList.Test\TransactionalList.Test.csproj", "{BF7A9159-505A-417D-8ACF-746E3042F7B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC07D070-B47D-44E7-AFF2-39F34F94D7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC07D070-B47D-44E7-AFF2-39F34F94D7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC07D070-B47D-44E7-AFF2-39F34F94D7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC07D070-B47D-44E7-AFF2-39F34F94D7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7A9159-505A-417D-8ACF-746E3042F7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7A9159-505A-417D-8ACF-746E3042F7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7A9159-505A-417D-8ACF-746E3042F7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7A9159-505A-417D-8ACF-746E3042F7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFB7DED9-F738-4266-A571-BB486266090E}
+	EndGlobalSection
+EndGlobal
